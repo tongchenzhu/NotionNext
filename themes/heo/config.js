@@ -16,7 +16,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享资源',
-  HEO_HERO_TITLE_2: '与LOOOOOOOOOK',
+  HEO_HERO_TITLE_2: '与LOOOOOOK',
   HEO_HERO_TITLE_3: 'blog.7miu.top',
   HEO_HERO_TITLE_4: '取悦·NAD·取悦',
   HEO_HERO_TITLE_5: 'last night  风情弥漫南城~~',
