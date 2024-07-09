@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'blog.7miu.top',
   HEO_HERO_TITLE_4: '取悦·NAD·取悦',
   HEO_HERO_TITLE_5: 'last night  风情弥漫南城~~',
-  HEO_HERO_TITLE_LINK: 'https://blog.7miu.top/category/%E9%A3%8E%E6%83%85',
+  HEO_HERO_TITLE_LINK: 'https://blog.7miu.top/category/%E5%BF%83%E6%82%A6',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/精选' },
