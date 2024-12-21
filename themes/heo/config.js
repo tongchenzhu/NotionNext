@@ -21,14 +21,14 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与有一点想法',
   HEO_HERO_TITLE_3: '7MIU.US.KG',
   HEO_HERO_TITLE_4: '心心念念',
-  HEO_HERO_TITLE_5: '鱼说：你看不见我的眼泪',
+  HEO_HERO_TITLE_5: '鱼说：你看不见我的眼泪~',
   HEO_HERO_TITLE_LINK: 'https://7miu.us.kg/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '电影剧集', url: '/tag/影视' },
-  HEO_HERO_CATEGORY_2: { title: '常用应用', url: '/tag/常用应用' },
+  HEO_HERO_CATEGORY_2: { title: '效率应用', url: '/tag/效率' },
   HEO_HERO_CATEGORY_3: { title: 'Adobe', url: '/tag/Adobe' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
