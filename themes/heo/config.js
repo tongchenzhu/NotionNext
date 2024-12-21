@@ -18,10 +18,10 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '无聊ing',
-  HEO_HERO_TITLE_2: '与想爱end',
+  HEO_HERO_TITLE_2: '与有一点想法',
   HEO_HERO_TITLE_3: '7MIU.US.KG',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_4: '心心念念',
+  HEO_HERO_TITLE_5: '鱼说：你看不见我的眼泪',
   HEO_HERO_TITLE_LINK: 'https://7miu.us.kg/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
