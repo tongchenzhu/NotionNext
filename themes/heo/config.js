@@ -27,7 +27,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  // HEO_HERO_CATEGORY_1: { title: '电影剧集', url: '/tag/影视' },
+  HEO_HERO_CATEGORY_1: { title: '电影剧集', url: '/tag/影视' },
   HEO_HERO_CATEGORY_2: { title: '在线动漫', url: '/anime' },
   // HEO_HERO_CATEGORY_3: { title: 'Adobe', url: '/tag/Adobe' },
 
