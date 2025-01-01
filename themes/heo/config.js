@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://7miu.us.kg/' },
+    { title: '欢迎来到我的博客（刷新保持最新）', url: 'https://7miu.us.kg/' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -28,7 +28,7 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '电影剧集', url: '/tag/影视' },
-  HEO_HERO_CATEGORY_2: { title: '在线动漫', url: '/anime' },
+  HEO_HERO_CATEGORY_2: { title: '在线视频', url: '/anime' },
   HEO_HERO_CATEGORY_3: { title: '勾栏听曲', url: '/dance-music' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
