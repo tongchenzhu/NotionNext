@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客（刷新保持最新）', url: 'https://7miu.us.kg/' },
+    { title: '欢迎来到我的博客~~', url: 'https://7miu.top/' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '7MIU.US.KG',
   HEO_HERO_TITLE_4: '心心念念',
   HEO_HERO_TITLE_5: '鱼说：你看不见我的眼泪~',
-  HEO_HERO_TITLE_LINK: 'https://7miu.us.kg/',
+  HEO_HERO_TITLE_LINK: 'https://7miu.top/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
