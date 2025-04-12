@@ -19,7 +19,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '无聊ing',
   HEO_HERO_TITLE_2: '与有一点想法',
-  HEO_HERO_TITLE_3: '7MIU.US.KG',
+  HEO_HERO_TITLE_3: '7MIU.TOP',
   HEO_HERO_TITLE_4: '心心念念',
   HEO_HERO_TITLE_5: '鱼说：你看不见我的眼泪~',
   HEO_HERO_TITLE_LINK: 'https://7miu.top/',
